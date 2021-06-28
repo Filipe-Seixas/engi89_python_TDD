@@ -1,6 +1,6 @@
 # Test Driven Development (TDD)
 
-## Why us TDD?
+## Why use TDD?
 - TDD makes you think of how to structure your code and application beforehand
 - Lowers the probability of encountering a bug
 - Having tests for all features makes adding new features easier
