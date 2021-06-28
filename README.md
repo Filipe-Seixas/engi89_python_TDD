@@ -20,5 +20,6 @@
 - `python -m unittest discover -v` to run unittest with more information (verbose)
 
 #
-![TDD Diagram](/TDD_Diagram_main.PNG)
-<img align="center" src="/TDD_Diagram_main.PNG">
+<p align="center">
+<img src="/TDD_Diagram_main.PNG">
+</p>
