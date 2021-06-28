@@ -19,4 +19,4 @@
 - `python -m unittest` to run unittest
 - `python -m unittest discover -v` to run unittest with more information (verbose)
 
-![TDD Diagram](https://github.com/filipe-seixas/engi89_python_TDD/TDD_Diagram.png)
+![TDD Diagram](/TDD_Diagram.PNG)
